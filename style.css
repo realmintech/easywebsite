@@ -1,0 +1,63 @@
+.nav{
+    background-color: green;
+}
+body{
+    background-color:(rgba(0, 128, 0, 0.4));
+}
+.nav a{
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    color:white;
+    text-align: center;
+}
+.note{
+    float:left;
+    text-align:left;
+    width:60%;
+    background-image: url('VSXT3405.JPG');
+    background-size: cover;
+    background-repeat: none;
+    height: 400px;
+}
+.desc{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.write{
+    float:left;
+    width:25%;
+}
+.all{
+    float:left;
+    width:60%;
+    background-color: green;
+    background-repeat: none;
+    height: 300px;
+}
+#up{
+    font-size: large;
+}
+.ease{
+    float:middle;
+    width:calc(100%-30%);
+}
+.free{
+    float:right;
+    width:25%;
+}
+.book{
+    width:40%;
+    float: right;
+}
+.nav a:hover{
+    background-color:lightgreen ;
+    color: white;
+}
+a.link-right{
+    text-align: right;
+    /* margin-left: 900px; */
+    margin-right: 0;
+}
+h2{
+    color:white;
+}
