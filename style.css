@@ -38,12 +38,13 @@ body{
     font-size: large;
 }
 .ease{
-    float:middle;
+    clear:both;
     width:calc(100%-30%);
 }
 .free{
-    float:right;
+    clear: both;
     width:25%;
+
 }
 .book{
     width:40%;
@@ -58,6 +59,4 @@ a.link-right{
     /* margin-left: 900px; */
     margin-right: 0;
 }
-h2{
-    color:white;
-}
+
